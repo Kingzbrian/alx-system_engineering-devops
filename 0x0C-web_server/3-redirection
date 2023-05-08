@@ -14,8 +14,8 @@ SERVER_CONFIG=\
 	root /var/www/html;
 	index index.html index.htm index.nginx-debian.html;
 	server_name _;
-	location /redirect_me {
-		return 301 https://sketchfab.com/bluepeno/models permanent;
+	location / {
+		try_files \$uri \$uri/ =404;
 	}
 	if (\$request_filename ~ redirect_me){
 		rewrite ^ https://sketchfab.com/bluepeno/models permanent;
