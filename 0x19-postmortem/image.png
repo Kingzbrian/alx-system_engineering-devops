@@ -1,11 +1,27 @@
---2023-05-14 20:38:48--  https://ibb.co/F8RG9pC
-Resolving ibb.co (ibb.co)... 213.174.132.224
-Connecting to ibb.co (ibb.co)|213.174.132.224|:443... connected.
+--2023-05-14 20:50:44--  https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp=sharing
+Resolving drive.google.com (drive.google.com)... 172.253.115.113, 172.253.115.102, 172.253.115.100, ...
+Connecting to drive.google.com (drive.google.com)|172.253.115.113|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp%3Dsharing&followup=https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp%3Dsharing [following]
+--2023-05-14 20:50:44--  https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp%3Dsharing&followup=https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp%3Dsharing
+Resolving accounts.google.com (accounts.google.com)... 142.251.163.84, 2607:f8b0:4004:c17::54
+Connecting to accounts.google.com (accounts.google.com)|142.251.163.84|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/InteractiveLogin?continue=https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp%3Dsharing&followup=https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp%3Dsharing&osid=1&passive=1209600&service=wise&ifkv=Af_xneEQ6cdJUjarUp5WTAZnTG_lXvKexUnp1oxRgWHNrsEyT1H-PLZlGNKQ9iIWNMAWr9B0yNc_7w [following]
+--2023-05-14 20:50:44--  https://accounts.google.com/InteractiveLogin?continue=https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp%3Dsharing&followup=https://drive.google.com/file/d/10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj/view?usp%3Dsharing&osid=1&passive=1209600&service=wise&ifkv=Af_xneEQ6cdJUjarUp5WTAZnTG_lXvKexUnp1oxRgWHNrsEyT1H-PLZlGNKQ9iIWNMAWr9B0yNc_7w
+Reusing existing connection to accounts.google.com:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/v3/signin/identifier?dsh=S1393396644%3A1684122644839720&continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj%2Fview%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj%2Fview%3Fusp%3Dsharing&ifkv=Af_xneEyIq1r4PhJ7Tsz1ES9MMMQWxMuslSdq4yT1a-CeZuI5RC9YV7A7XM9DPpxP-ZyJK-YlzAn1g&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin [following]
+--2023-05-14 20:50:44--  https://accounts.google.com/v3/signin/identifier?dsh=S1393396644%3A1684122644839720&continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj%2Fview%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F10yoKT_OA8cBo1Lku7SWuvn8clGIIP7Cj%2Fview%3Fusp%3Dsharing&ifkv=Af_xneEyIq1r4PhJ7Tsz1ES9MMMQWxMuslSdq4yT1a-CeZuI5RC9YV7A7XM9DPpxP-ZyJK-YlzAn1g&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin
+Reusing existing connection to accounts.google.com:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: ‘F8RG9pC’
+Saving to: ‘view?usp=sharing.1’
 
-     0K .......... ........                                     227K=0.08s
+     0K .......... .......... .......... .......... .......... 2.49M
+    50K .......... .......... .......... .......... .......... 23.7M
+   100K .......... .......... .......... .......... .......... 7.18M
+   150K ..                                                      106M=0.03s
 
-2023-05-14 20:38:48 (227 KB/s) - ‘F8RG9pC’ saved [19442]
+2023-05-14 20:50:44 (5.24 MB/s) - ‘view?usp=sharing.1’ saved [156635]
 
